@@ -1,4 +1,4 @@
-# HandGestureLEDControl
+# FingerCounterLEDControl
 
 Using hand gestures for finger counts (so from 0 to 5 fingers), this program transfers the number of fingers the user is holding up to the camera to an Arduino UNO which will light up the corresponding number of LEDs!
 
